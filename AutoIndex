@@ -1,6 +1,6 @@
 
-local hatchCountPerRequest = 18    -- how many you can hatch at once
-local totalRequestCount = 1000    -- how many to hatch each egg
+local hatchCountPerRequest = 11    -- how many you can hatch at once
+local totalRequestCount = 10000    -- how many to hatch each egg
 
 
 
